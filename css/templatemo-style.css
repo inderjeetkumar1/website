@@ -137,6 +137,8 @@ img {
   min-height: 500px;
   padding-top: 180px;
   padding-bottom: 100px;
+  width:100%;
+  height:auto;
 }
 #home h1,
 #home h3 {
